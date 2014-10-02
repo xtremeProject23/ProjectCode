@@ -20,6 +20,8 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 
 // Hello!
 
+// Hello October 2
+
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
