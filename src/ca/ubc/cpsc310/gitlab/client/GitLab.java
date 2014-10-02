@@ -31,7 +31,7 @@ public class GitLab implements EntryPoint {
 	 * returns an error.
 	 */
 	private static final String SERVER_ERROR = "This is my GitHub change!"
-			+ "for the commit! (Partner1)";
+			+ "for the commit!";
 	
 			/*
 			"An error occurred while "
