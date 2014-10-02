@@ -30,10 +30,14 @@ public class GitLab implements EntryPoint {
 	 * The message displayed to the user when the server cannot be reached or
 	 * returns an error.
 	 */
-	private static final String SERVER_ERROR = "An error occurred while "
+	private static final String SERVER_ERROR = "This is my GitHub change!"
+			+ "for the commit! (Partner1)";
+	
+			/*
+			"An error occurred while "
 			+ "attempting to contact the server. Please check your network "
 			+ "connection and try again.";
-
+			*/
 
 
 	/**
