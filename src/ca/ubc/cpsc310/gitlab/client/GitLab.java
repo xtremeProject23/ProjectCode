@@ -18,10 +18,6 @@ import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
-// Hello!
-
-// Hello October 2 for Merge Conflict
-
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
@@ -44,8 +40,6 @@ public class GitLab implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-	
 		Window.alert("This is my second GitHub change!");
-		Window.alert("This is my second.5 GitHub change!");		
 	}
 }
