@@ -20,7 +20,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 
 // Hello!
 
-// Hello October 2
+// Hello March 2 for Merge Conflict
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
